@@ -1,0 +1,12 @@
+EMMYS TECHNOLOGY — ONE FOLDER WEBSITE
+
+All website files are placed directly in this single folder.
+
+SEO files included:
+- sitemap.xml
+- robots.txt
+
+Final SEO step:
+- Replace YOUR-DOMAIN.com in sitemap.xml and robots.txt with your real domain.
+- Upload the contents of this folder together to your hosting.
+- Verify the website in Google Search Console and submit /sitemap.xml.
